@@ -1,1 +1,4 @@
 int a=5;
+
+//Yeni kod yazdim
+int str = "TechCamp";
