@@ -1,5 +1,6 @@
 int a=5;
-
 //Yeni kod yazdim
 int str = "TechCamp";
-int str = "Salam TechCamp"
+int str1 = "Salam TechCamp";
+int text = " Salam"l;
+
