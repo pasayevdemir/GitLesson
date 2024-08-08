@@ -1,8 +1,5 @@
 int a=5;
-<<<<<<< HEAD
-
 //Yeni kod yazdim
 int str = "TechCamp";
-=======
-int str = "Salam TechCamp"
->>>>>>> demir
+int str1 = "Salam TechCamp";
+int text = " Salam"l;
